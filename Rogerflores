@@ -1,5 +1,6 @@
   Basic: Un fitxer amb la funci� principal i totes les funcions per fer el joc
 
      QWER: un codi amb 3 fitxers (un per la funi� principal i dos per moduls [.h i .cpp]) que permeti jugar m�s d'una cop
+     ASDF: un codi amb 3 fitxers (un per la funi� principal i dos per moduls [.h i .cpp]) que permeti jugar m�s d'una cop
 
      Avancat: un codi amb 3 fitxers (un per la funi� principal i dos per moduls [.h i .cpp]) que permeti jugar m�s d'una cop  + les funcions treballa amb punters
